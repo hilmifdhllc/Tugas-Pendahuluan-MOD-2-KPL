@@ -1,0 +1,11 @@
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\bin\Debug\Project TP Awal.exe.config
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\bin\Debug\Project TP Awal.exe
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\bin\Debug\Project TP Awal.pdb
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\obj\Debug\Project TP Awal.csproj.AssemblyReference.cache
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\obj\Debug\Project TP Awal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\obj\Debug\Project_TP_Awal.Form1.resources
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\obj\Debug\Project_TP_Awal.Properties.Resources.resources
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\obj\Debug\Project TP Awal.csproj.GenerateResource.cache
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\obj\Debug\Project TP Awal.csproj.CoreCompileInputs.cache
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\obj\Debug\Project TP Awal.exe
+C:\Users\Hilmi Fadhillah C\source\repos\Project TP Awal\Project TP Awal\obj\Debug\Project TP Awal.pdb
